@@ -1,5 +1,5 @@
 ## Vue 2 has reached End of Life
-
+##HIII
 **You are looking at the now inactive repository for Vue 2. The actively maintained repository for the latest version of Vue is [vuejs/core](https://github.com/vuejs/core).**
 
 Vue has reached End of Life on December 31st, 2023. It no longer receives new features, updates, or fixes. However, it is still available on all existing distribution channels (CDNs, package managers, Github, etc).
@@ -45,7 +45,7 @@ Vue (pronounced `/vjuː/`, like view) is a **progressive framework** for buildin
 
 #### Browser Compatibility
 
-Vue.js supports all browsers that are [ES5-compliant](https://kangax.github.io/compat-table/es5/) (IE8 and below are not supported).
+Vue.js supports all browsers that are [ES5-compliant](https://compat-table.github.io/compat-table/es5/) (IE8 and below are not supported).
 
 ## Ecosystem
 
